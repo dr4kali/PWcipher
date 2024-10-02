@@ -20,4 +20,4 @@ YourPassword@1990
 
 With our application, you can have:
 
-YourPassword@<uniquephrase>
+YourPassword@uniquephrase
